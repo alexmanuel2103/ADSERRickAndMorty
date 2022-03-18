@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
     container:{
         width: "100%",
         height: "100%",
-        backgroundColor: "#24282f",
+        backgroundColor: "#c87eff",
     },
     content:{
         flex:1,
@@ -60,7 +60,7 @@ const styles = StyleSheet.create({
         shadowOpacity:0.25,
         shadowRadius: 3.84,
         elevation: 5,
-        backgroundColor: "#3c3e44",
+        backgroundColor: "#ff7ef1",
         marginBottom:20,
     },
     image:{
@@ -71,7 +71,7 @@ const styles = StyleSheet.create({
         alignSelf:"center",
         width: 200,
         height: 200,
-        borderRadius: 100,
+        borderRadius: 25,
         borderColor: "gray",
         borderWidth:3,
     },
@@ -85,15 +85,15 @@ const styles = StyleSheet.create({
         marginBottom:5,
     },
     property_name:{
-        fontSize: 14,
+        fontSize: 18,
         alignSelf: "flex-start",
-        color:"#8a8b8c",
+        color:"#FFFFFF",
         marginLeft:40,
     },
     property_value:{
         height:"100%",
         color:"#ECECEC",
-        fontSize:14,
+        fontSize:18,
         alignSelf:"flex-start",
         marginLeft:60,
     },

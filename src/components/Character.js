@@ -94,7 +94,7 @@ const styles = StyleSheet.create({
         alignContent: "flex-start",
         paddingLeft: 10,
         height: "100%",
-        backgroundColor: "#3c3e44",
+        backgroundColor: "#ff7ef1",
         borderTopRightRadius: 10,
         borderBottomRightRadius: 10,
     },
