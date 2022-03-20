@@ -6,7 +6,7 @@ Link to images from the mobile software application:
 
 *Splash screen:
 <br>
-
+https://user-images.githubusercontent.com/80539239/159144862-957ee771-4a64-42cc-8dc1-0788e11b9cbb.jpeg
 *Characters screen:
 <br>
 https://user-images.githubusercontent.com/80539239/158928732-54a28173-2fe4-439d-be90-292034427fb1.jpeg
